@@ -2,7 +2,7 @@ import bpy
 import os
 
 # Define the directories
-original_assets_dir = 'assets/original/'
+original_assets_dir = 'assets/debug/'
 good_uv_export_dir = 'assets/goodUV/'
 bad_uv_export_dir = 'assets/badUV/'
 
